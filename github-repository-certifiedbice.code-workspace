@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "git.ignoreLimitWarning": true,
+        "editor.formatOnSave": true,
+		"editor.formatOnPaste": false,
+		"editor.formatOnType": false,
+		"editor.hover.delay": 600,
+        "editor.tabSize": 4,
+		"editor.tabCompletion": "on",
+		"editor.detectIndentation": false,
+		"editor.acceptSuggestionOnEnter": "off",
+		"prettier.useTabs": true,
+		"prettier.tabWidth": 4,
+		"prettier.singleQuote": true,
+		"prettier.semi": true,
+		"prettier.trailingComma": "all",
+		"prettier.bracketSpacing": true,
+		"prettier.printWidth": 120
+    }
+}
