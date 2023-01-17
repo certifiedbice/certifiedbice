@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -46,16 +46,21 @@ Sunday       31 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     1 hr 16 mins        ██████████████░░░░░░░░░░░   57.95% 
+Markdown                 16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.91% 
+Vue.js                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.64% 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.42%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 12 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lolsypoo                 1 hr 48 mins        ████████████████████░░░░░   81.4% 
+github-repository-certifi24 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.6%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
@@ -75,5 +80,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/01/2023 18:45:27 UTC
+ Last Updated on 17/01/2023 18:43:51 UTC
 <!--END_SECTION:waka-->
