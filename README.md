@@ -1,5 +1,5 @@
 # I am still configuring and tuning this new WakaTime integration
-- Currently incomplete and delayed because of the production push happening... Expected completion of new README
+- Currently incomplete and delayed because of the production push happening... Expected completion of new README soon.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
