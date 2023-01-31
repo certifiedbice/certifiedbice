@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -48,16 +48,22 @@ Sunday       31 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     36 mins             ███████████████░░░░░░░░░░   59.5% 
+JavaScript               19 mins             ███████░░░░░░░░░░░░░░░░░░   31.31% 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lolsypoo                 33 mins             █████████████░░░░░░░░░░░░   54.8% 
+felonydiscrimination.org 24 mins             ██████████░░░░░░░░░░░░░░░   40.42% 
+charter-ascendion-technic2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.78%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 1 min          █████████████████████████   100.0%
 
 ```
 
@@ -77,5 +83,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2023 18:43:50 UTC
+ Last Updated on 31/01/2023 18:44:19 UTC
 <!--END_SECTION:waka-->
