@@ -75,5 +75,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2023 18:37:48 UTC
+ Last Updated on 01/04/2023 18:37:49 UTC
 <!--END_SECTION:waka-->
