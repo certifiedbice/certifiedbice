@@ -1,9 +1,9 @@
 # I am still configuring and tuning this new WakaTime integration
 - Currently incomplete and delayed because of the production push happening... Expected completion of new README soon.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.6%20million%20lines%20of%20code-blue)
 
@@ -46,19 +46,21 @@ Sunday                   32 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Vue.js                   9 hrs 3 mins        ████████████████████░░░░░   78.62 % 
-JavaScript               2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Vue.js                   10 hrs 46 mins      ███████████████████░░░░░░   77.08 % 
+JavaScript               2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+TypeScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lolsypoo                 11 hrs 30 mins      █████████████████████████   100.00 % 
+lolsypoo                 13 hrs 33 mins      ████████████████████████░   97.05 % 
+UnfilteredDelights       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Windows                  11 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +80,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2023 08:16:09 UTC
+ Last Updated on 14/06/2023 18:38:39 UTC
 <!--END_SECTION:waka-->
