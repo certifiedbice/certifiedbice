@@ -1,9 +1,9 @@
 # I am still configuring and tuning this new WakaTime integration
 - Currently incomplete and delayed because of the production push happening... Expected completion of new README soon.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.7%20million%20lines%20of%20code-blue)
 
@@ -46,21 +46,21 @@ Sunday                   34 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Vue.js                   48 hrs 26 mins      ██████████████████░░░░░░░   73.59 % 
-JavaScript               17 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+Vue.js                   45 hrs 50 mins      ██████████████████░░░░░░░   72.16 % 
+JavaScript               17 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   27.46 % 
 Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  65 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  63 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lolsypoo                 65 hrs 47 mins      █████████████████████████   99.95 % 
+lolsypoo                 63 hrs 29 mins      █████████████████████████   99.95 % 
 vega                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  65 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  63 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +80,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2023 18:41:17 UTC
+ Last Updated on 04/07/2023 18:42:57 UTC
 <!--END_SECTION:waka-->
