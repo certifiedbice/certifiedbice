@@ -1,7 +1,7 @@
 # I am still configuring and tuning this new WakaTime integration
 - Currently incomplete and delayed because of the production push happening... Expected completion of new README soon.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,21 +46,21 @@ Sunday                   34 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Vue.js                   45 hrs 50 mins      ██████████████████░░░░░░░   72.16 % 
-JavaScript               17 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+Vue.js                   45 hrs 58 mins      ██████████████████░░░░░░░   71.98 % 
+JavaScript               17 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   27.63 % 
 Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  63 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  63 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lolsypoo                 63 hrs 29 mins      █████████████████████████   99.95 % 
-vega                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+lolsypoo                 63 hrs 35 mins      █████████████████████████   99.57 % 
+vega                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Windows                  63 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  63 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +80,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 04/07/2023 18:42:57 UTC
+ Last Updated on 05/07/2023 18:43:19 UTC
 <!--END_SECTION:waka-->
