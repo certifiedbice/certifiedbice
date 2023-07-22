@@ -1,7 +1,7 @@
 # I am still configuring and tuning this new WakaTime integration
 - Currently incomplete and delayed because of the production push happening... Expected completion of new README soon.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 246.5 kB Used in GitHub's Storage 
+> 📦 246.6 kB Used in GitHub's Storage 
  > 
 > 🏆 159 Contributions in the Year 2023
  > 
@@ -46,19 +46,19 @@ Sunday                   34 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Vue.js                   27 hrs 11 mins      █████████████████░░░░░░░░   69.68 % 
-JavaScript               11 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Vue.js                   27 hrs 36 mins      ██████████████████░░░░░░░   70.49 % 
+JavaScript               11 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-VS Code                  39 hrs              █████████████████████████   100.00 % 
+VS Code                  39 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lolsypoo                 39 hrs              █████████████████████████   100.00 % 
+lolsypoo                 39 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  39 hrs              █████████████████████████   100.00 % 
+Windows                  39 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +78,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2023 18:38:51 UTC
+ Last Updated on 22/07/2023 18:38:19 UTC
 <!--END_SECTION:waka-->
