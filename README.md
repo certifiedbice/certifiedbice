@@ -1,7 +1,7 @@
 # I am still configuring and tuning this new WakaTime integration
 - Currently incomplete and delayed because of the production push happening... Expected completion of new README soon.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,19 +46,19 @@ Sunday                   124 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-TypeScript               1 hr 12 mins        ████████████████████░░░░░   81.79 % 
-JSON                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+TypeScript               49 mins             ██████████████████████░░░   87.04 % 
+JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 1 hr 25 mins        ████████████████████████░   97.10 % 
-backend                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+frontend                 53 mins             ████████████████████████░   95.45 % 
+backend                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  56 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +78,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2023 18:38:46 UTC
+ Last Updated on 23/08/2023 18:39:01 UTC
 <!--END_SECTION:waka-->
