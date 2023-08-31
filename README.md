@@ -1,7 +1,7 @@
 # I am still configuring and tuning this new WakaTime integration
 - Currently incomplete and delayed because of the production push happening... Expected completion of new README soon.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-339%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -9,7 +9,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 246.8 kB Used in GitHub's Storage 
+> 📦 246.9 kB Used in GitHub's Storage 
  > 
 > 🏆 265 Contributions in the Year 2023
  > 
@@ -46,22 +46,23 @@ Sunday                   173 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-SCSS                     11 hrs 8 mins       █████████████░░░░░░░░░░░░   52.36 % 
-TypeScript               8 hrs 56 mins       ███████████░░░░░░░░░░░░░░   42.04 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-JavaScript               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TypeScript               13 hrs 16 mins      █████████████░░░░░░░░░░░░   53.62 % 
+SCSS                     10 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   41.44 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 45 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 21 hrs 15 mins      █████████████████████████   99.95 % 
+frontend                 24 hrs 43 mins      █████████████████████████   99.88 % 
+lolsypoo                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 UnmannedEpiphany         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 resume.bice.rocks        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  21 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,5 +82,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2023 18:39:29 UTC
+ Last Updated on 31/08/2023 18:39:20 UTC
 <!--END_SECTION:waka-->
