@@ -46,21 +46,16 @@ Sunday                   391 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-SCSS                     26 mins             █████████░░░░░░░░░░░░░░░░   36.57 % 
-TypeScript               16 mins             ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Docker                   15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-JSON                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-MySQL                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-frontend                 1 hr 11 mins        ████████████████████████░   96.91 % 
-UnmannedEpiphany         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +75,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2023 18:41:14 UTC
+ Last Updated on 05/10/2023 18:40:13 UTC
 <!--END_SECTION:waka-->
