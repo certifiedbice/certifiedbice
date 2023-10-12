@@ -1,7 +1,7 @@
 # I am still configuring and tuning this new WakaTime integration
 - Currently incomplete and delayed because of the production push happening... Expected completion of new README soon.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,18 +46,22 @@ Sunday                   391 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-TypeScript               1 hr 4 mins         ████████████████░░░░░░░░░   62.82 % 
-Python                   25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+TypeScript               2 hrs 13 mins       █████████████████░░░░░░░░   66.33 % 
+JSON                     37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+Python                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+TSConfig                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-UnfilteredDelights       1 hr 42 mins        █████████████████████████   100.00 % 
+UnfilteredDelights       3 hrs 5 mins        ███████████████████████░░   92.06 % 
+backend                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+frontend                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,5 +81,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2023 18:40:49 UTC
+ Last Updated on 12/10/2023 18:40:24 UTC
 <!--END_SECTION:waka-->
