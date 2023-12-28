@@ -11,8 +11,6 @@
 
 > 📦 247.1 kB Used in GitHub's Storage 
  > 
-> 🏆 385 Contributions in the Year 2023
- > 
 > 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -75,5 +73,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2023 18:39:19 UTC
+ Last Updated on 28/12/2023 18:38:41 UTC
 <!--END_SECTION:waka-->
