@@ -1,7 +1,7 @@
 # I am still configuring and tuning this new WakaTime integration
 - Currently incomplete and delayed because of the production push happening... Expected completion of new README soon.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,18 +46,20 @@ Sunday                   392 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JSON                     12 mins             ███████████████████████░░   92.98 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Python                   3 hrs 26 mins       ██████████████░░░░░░░░░░░   56.08 % 
+JSON                     2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.03 % 
+Text                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.00 % 
+VS Code                  6 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ResumePass               12 mins             █████████████████████████   100.00 % 
+ResumePass               6 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  6 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,5 +79,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2024 18:38:57 UTC
+ Last Updated on 28/01/2024 18:40:04 UTC
 <!--END_SECTION:waka-->
