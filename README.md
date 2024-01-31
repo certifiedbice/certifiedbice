@@ -1,7 +1,7 @@
 # I am still configuring and tuning this new WakaTime integration
 - Currently incomplete and delayed because of the production push happening... Expected completion of new README soon.
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-461%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,20 +46,21 @@ Sunday                   392 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Python                   6 hrs 46 mins       █████████████████░░░░░░░░   68.16 % 
-JSON                     2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Python                   7 hrs 45 mins       ███████████████░░░░░░░░░░   58.94 % 
+JSON                     2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+PHP                      1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ResumePass               9 hrs 55 mins       █████████████████████████   100.00 % 
+ResumePass               10 hrs 55 mins      █████████████████████░░░░   82.97 % 
+site                     2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
 
 💻 Operating System: 
-Windows                  9 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,5 +80,5 @@ CSS                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2024 18:38:41 UTC
+ Last Updated on 31/01/2024 18:38:53 UTC
 <!--END_SECTION:waka-->
