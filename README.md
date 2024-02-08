@@ -96,6 +96,8 @@ LinkedIn: Currently being censored and undergoing litigation
 -   [Professional Credentials](https://resume.bice.rocks)
 -   [Play a little sudoku?](https://sudoku.bice.rocks)
 
+-   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=certifiedbice)
+
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
