@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
@@ -107,7 +107,7 @@ LinkedIn: Currently being censored and undergoing litigation
 
 **🐱 My GitHub Data** 
 
-> 📦 247.2 kB Used in GitHub's Storage 
+> 📦 247.3 kB Used in GitHub's Storage 
  > 
 > 🏆 73 Contributions in the Year 2024
  > 
@@ -144,24 +144,24 @@ Sunday                   436 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Python                   11 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   31.06 % 
-SCSS                     6 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Markdown                 4 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-JavaScript               3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Other                    2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Python                   10 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   33.56 % 
+SCSS                     5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+JavaScript               3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Markdown                 3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Other                    2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  31 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CataclysmicallyMacabre   20 hrs 12 mins      ██████████████░░░░░░░░░░░   55.94 % 
-PressuredImplosion       12 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   34.93 % 
-github-repository-certifi1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-FlawlessParadigm         47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-frontend                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+CataclysmicallyMacabre   19 hrs 18 mins      ███████████████░░░░░░░░░░   60.46 % 
+PressuredImplosion       10 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
+FlawlessParadigm         1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+UnmannedEpiphany         30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+RedundantNightmare       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Windows                  36 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  31 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -181,5 +181,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2024 18:39:18 UTC
+ Last Updated on 16/02/2024 18:39:13 UTC
 <!--END_SECTION:waka-->
