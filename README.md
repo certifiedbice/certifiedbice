@@ -99,9 +99,9 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.7%20million%20lines%20of%20code-blue)
 
@@ -144,24 +144,24 @@ Sunday                   436 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Python                   17 hrs 24 mins      ███████████████░░░░░░░░░░   58.97 % 
-JSON                     5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Markdown                 4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Python                   17 hrs 27 mins      ███████████████░░░░░░░░░░   59.05 % 
+JSON                     5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Markdown                 4 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 Bash                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FlawlessParadigm         25 hrs 28 mins      ██████████████████████░░░   86.33 % 
-LumpyDefinition          2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-PressuredImplosion       54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+FlawlessParadigm         25 hrs 28 mins      ██████████████████████░░░   86.16 % 
+LumpyDefinition          2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+PressuredImplosion       57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 UnmannedEpiphany         14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 CataclysmicallyMacabre2  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
-Windows                  29 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -181,5 +181,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2024 18:40:11 UTC
+ Last Updated on 26/02/2024 18:39:53 UTC
 <!--END_SECTION:waka-->
