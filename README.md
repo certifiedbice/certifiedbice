@@ -109,8 +109,6 @@ LinkedIn: Currently being censored and undergoing litigation
 
 > 📦 247.5 kB Used in GitHub's Storage 
  > 
-> 🏆 177 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -144,16 +142,17 @@ Sunday                   444 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 mins              ████████████████████░░░░░   80.53 % 
+Python                   1 min               █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ResumePass               5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -173,5 +172,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2024 18:42:59 UTC
+ Last Updated on 28/03/2024 18:44:31 UTC
 <!--END_SECTION:waka-->
