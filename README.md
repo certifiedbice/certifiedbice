@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -142,17 +142,20 @@ Sunday                   444 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Markdown                 4 mins              ████████████████████░░░░░   80.53 % 
-Python                   1 min               █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+JSON                     2 hrs 31 mins       ██████████████████████░░░   88.61 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ResumePass               5 mins              █████████████████████████   100.00 % 
+ResumePass               2 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  2 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -172,5 +175,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2024 18:44:31 UTC
+ Last Updated on 29/03/2024 18:43:12 UTC
 <!--END_SECTION:waka-->
