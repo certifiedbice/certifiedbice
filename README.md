@@ -144,19 +144,16 @@ Sunday                   444 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Bash                     11 mins             █████████████████████░░░░   82.14 % 
-Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Git                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CataclysmicallyMacabre3  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -176,5 +173,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2024 18:44:57 UTC
+ Last Updated on 04/05/2024 18:43:22 UTC
 <!--END_SECTION:waka-->
