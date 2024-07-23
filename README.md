@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,8 +108,6 @@ LinkedIn: Currently being censored and undergoing litigation
 **🐱 My GitHub Data** 
 
 > 📦 247.6 kB Used in GitHub's Storage 
- > 
-> 🏆 236 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -144,21 +142,23 @@ Sunday                   1370 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               8 hrs 32 mins       ███████████████░░░░░░░░░░   60.46 % 
-SCSS                     3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+JavaScript               7 hrs 55 mins       ████████████████░░░░░░░░░   64.68 % 
+SCSS                     3 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       14 hrs 5 mins       █████████████████████████   99.66 % 
-CataclysmicallyMacabre   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+VictoriousFatality       11 hrs 58 mins      ████████████████████████░   97.74 % 
+ragetherapy              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+CataclysmicallyMacabre   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  14 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -178,5 +178,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2024 18:43:13 UTC
+ Last Updated on 23/07/2024 18:41:44 UTC
 <!--END_SECTION:waka-->
