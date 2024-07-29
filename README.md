@@ -99,15 +99,15 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2043%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 247.6 kB Used in GitHub's Storage 
- > 
-> 🏆 248 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -177,5 +177,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2024 17:56:11 UTC
+ Last Updated on 29/07/2024 18:42:33 UTC
 <!--END_SECTION:waka-->
