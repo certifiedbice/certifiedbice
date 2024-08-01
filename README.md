@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -108,8 +108,6 @@ LinkedIn: Currently being censored and undergoing litigation
 **🐱 My GitHub Data** 
 
 > 📦 247.6 kB Used in GitHub's Storage 
- > 
-> 🏆 248 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -144,21 +142,21 @@ Sunday                   1344 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               16 hrs 59 mins      █████████████████░░░░░░░░   69.70 % 
-Gherkin                  4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-JSON                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-SCSS                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+JavaScript               19 hrs 24 mins      ██████████████████░░░░░░░   72.06 % 
+Gherkin                  4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+JSON                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+TypeScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+SCSS                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       24 hrs 8 mins       █████████████████████████   99.01 % 
-ragetherapy              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+VictoriousFatality       26 hrs 40 mins      █████████████████████████   99.10 % 
+ragetherapy              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Windows                  24 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -178,5 +176,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2024 18:42:56 UTC
+ Last Updated on 01/08/2024 18:42:33 UTC
 <!--END_SECTION:waka-->
