@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-672%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -108,6 +108,8 @@ LinkedIn: Currently being censored and undergoing litigation
 **🐱 My GitHub Data** 
 
 > 📦 247.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 248 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -142,21 +144,21 @@ Sunday                   1340 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-YAML                     9 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.68 % 
-Bash                     3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Other                    3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Docker                   2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-JavaScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+YAML                     7 hrs 47 mins       ████████████░░░░░░░░░░░░░   46.77 % 
+Other                    3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Bash                     2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Docker                   1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+JavaScript               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       20 hrs 43 mins      █████████████████████████   98.87 % 
-CataclysmicallyMacabre   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+VictoriousFatality       16 hrs 31 mins      █████████████████████████   99.20 % 
+CataclysmicallyMacabre   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Windows                  20 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -176,5 +178,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2024 18:41:24 UTC
+ Last Updated on 11/08/2024 18:43:59 UTC
 <!--END_SECTION:waka-->
