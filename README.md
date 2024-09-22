@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,8 +108,6 @@ LinkedIn: Currently being censored and undergoing litigation
 **🐱 My GitHub Data** 
 
 > 📦 247.7 kB Used in GitHub's Storage 
- > 
-> 🏆 264 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -144,21 +142,20 @@ Sunday                   1478 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               2 hrs 50 mins       ██████████████████░░░░░░░   72.17 % 
-SCSS                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+JavaScript               2 hrs 22 mins       █████████████████░░░░░░░░   67.34 % 
+SCSS                     53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       3 hrs 53 mins       █████████████████████████   98.48 % 
-CataclysmicallyMacabre   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+VictoriousFatality       3 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -178,5 +175,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2024 18:43:49 UTC
+ Last Updated on 22/09/2024 18:43:05 UTC
 <!--END_SECTION:waka-->
