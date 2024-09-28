@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -142,19 +142,17 @@ Sunday                   1496 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               4 hrs 14 mins       ███████████████████░░░░░░   75.34 % 
-SCSS                     1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JavaScript               3 hrs 27 mins       ███████████████████░░░░░░   77.69 % 
+SCSS                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       5 hrs 37 mins       █████████████████████████   100.00 % 
+VictoriousFatality       4 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,5 +172,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2024 18:45:05 UTC
+ Last Updated on 28/09/2024 18:43:31 UTC
 <!--END_SECTION:waka-->
