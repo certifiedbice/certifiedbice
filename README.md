@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -142,20 +142,20 @@ Sunday                   1342 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               6 hrs 34 mins       ███████████████░░░░░░░░░░   58.47 % 
-SCSS                     4 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   39.61 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JavaScript               6 hrs 37 mins       ███████████████░░░░░░░░░░   58.68 % 
+SCSS                     4 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.70 % 
 Gherkin                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 14 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       11 hrs 14 mins      █████████████████████████   100.00 % 
+VictoriousFatality       11 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -175,5 +175,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2024 18:43:10 UTC
+ Last Updated on 06/10/2024 18:42:57 UTC
 <!--END_SECTION:waka-->
