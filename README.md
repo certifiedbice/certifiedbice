@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-771%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,6 +108,8 @@ LinkedIn: Currently being censored and undergoing litigation
 **🐱 My GitHub Data** 
 
 > 📦 247.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 295 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -142,24 +144,24 @@ Sunday                   1360 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               19 hrs 44 mins      ████████████████████░░░░░   81.38 % 
-JSON                     2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-SCSS                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+JavaScript               21 hrs 58 mins      ████████████████████░░░░░   80.95 % 
+JSON                     2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+SCSS                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       22 hrs 50 mins      ████████████████████████░   94.14 % 
-codingAssesments         1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-charter-ascendion-technic3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-employer-technical-challe2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-CataclysmicallyMacabre   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+VictoriousFatality       25 hrs 43 mins      ████████████████████████░   94.76 % 
+codingAssesments         1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+charter-ascendion-technic3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+employer-technical-challe2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+CataclysmicallyMacabre   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  24 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -179,5 +181,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2024 18:44:33 UTC
+ Last Updated on 05/11/2024 18:45:10 UTC
 <!--END_SECTION:waka-->
