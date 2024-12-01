@@ -99,8 +99,6 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-849%20hrs%2013%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.3%20million%20lines%20of%20code-blue)
@@ -108,8 +106,6 @@ LinkedIn: Currently being censored and undergoing litigation
 **🐱 My GitHub Data** 
 
 > 📦 248.2 kB Used in GitHub's Storage 
- > 
-> 🏆 313 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -144,18 +140,18 @@ Sunday                   1364 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               1 hr 48 mins        ███████████████████████░░   93.84 % 
-SCSS                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+JavaScript               1 hr 3 mins         ██████████████████████░░░   87.99 % 
+SCSS                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       1 hr 55 mins        █████████████████████████   100.00 % 
+VictoriousFatality       1 hr 12 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -175,5 +171,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2024 18:44:36 UTC
+ Last Updated on 01/12/2024 18:45:05 UTC
 <!--END_SECTION:waka-->
