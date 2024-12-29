@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-925%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-929%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,6 +108,8 @@ LinkedIn: Currently being censored and undergoing litigation
 **🐱 My GitHub Data** 
 
 > 📦 248.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 317 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -142,19 +144,19 @@ Sunday                   1364 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               25 hrs 13 mins      ███████████████████████░░   92.57 % 
-SCSS                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JavaScript               26 hrs 3 mins       ███████████████████████░░   92.78 % 
+SCSS                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 14 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       27 hrs 14 mins      █████████████████████████   100.00 % 
+VictoriousFatality       28 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,5 +176,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 28/12/2024 18:43:16 UTC
+ Last Updated on 29/12/2024 18:43:05 UTC
 <!--END_SECTION:waka-->
