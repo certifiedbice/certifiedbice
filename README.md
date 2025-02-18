@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C032%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C048%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,6 +108,8 @@ LinkedIn: Currently being censored and undergoing litigation
 **🐱 My GitHub Data** 
 
 > 📦 248.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -142,19 +144,20 @@ Sunday                   1317 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               37 hrs 19 mins      ████████████████████████░   97.15 % 
-Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript               50 hrs 39 mins      ████████████████████████░   97.12 % 
+Other                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  52 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       38 hrs 24 mins      █████████████████████████   100.00 % 
+VictoriousFatality       52 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  38 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  52 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,5 +177,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 17/02/2025 18:49:32 UTC
+ Last Updated on 18/02/2025 18:51:12 UTC
 <!--END_SECTION:waka-->
