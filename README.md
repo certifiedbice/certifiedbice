@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C076%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -144,20 +144,19 @@ Sunday                   1317 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               56 hrs 29 mins      █████████████████████████   98.65 % 
-JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+JavaScript               50 hrs 5 mins       ████████████████████████░   97.85 % 
+Other                    35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  57 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  51 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       57 hrs 15 mins      █████████████████████████   100.00 % 
+VictoriousFatality       51 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  57 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  51 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -177,5 +176,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2025 18:47:45 UTC
+ Last Updated on 23/02/2025 18:48:41 UTC
 <!--END_SECTION:waka-->
