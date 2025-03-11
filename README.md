@@ -109,8 +109,6 @@ LinkedIn: Currently being censored and undergoing litigation
 
 > 📦 248.2 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -144,17 +142,17 @@ Sunday                   1313 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               5 hrs 56 mins       █████████████████████████   99.75 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+JavaScript               5 hrs 5 mins        █████████████████████████   99.70 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       5 hrs 57 mins       █████████████████████████   100.00 % 
+VictoriousFatality       5 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -174,5 +172,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2025 18:43:26 UTC
+ Last Updated on 11/03/2025 18:44:37 UTC
 <!--END_SECTION:waka-->
