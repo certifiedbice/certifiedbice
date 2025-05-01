@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C111%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C114%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,6 +108,8 @@ LinkedIn: Currently being censored and undergoing litigation
 **🐱 My GitHub Data** 
 
 > 📦 248.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -142,18 +144,17 @@ Sunday                   1333 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-JavaScript               1 hr                ███████████████████░░░░░░   74.90 % 
-Other                    11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+JavaScript               2 hrs 29 mins       ████████████████████████░   95.22 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VictoriousFatality       1 hr 20 mins        █████████████████████████   100.00 % 
+VictoriousFatality       2 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -173,5 +174,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2025 18:45:14 UTC
+ Last Updated on 01/05/2025 18:46:03 UTC
 <!--END_SECTION:waka-->
