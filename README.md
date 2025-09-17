@@ -99,6 +99,8 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C115%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.8%20million%20lines%20of%20code-blue)
@@ -113,6 +115,47 @@ LinkedIn: Currently being censored and undergoing litigation
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                340 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+🌆 Daytime                2013 commits        ███████████░░░░░░░░░░░░░░   42.81 % 
+🌃 Evening                1257 commits        ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+🌙 Night                  1092 commits        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Tuesday                  567 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Wednesday                521 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Thursday                 814 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Friday                   357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Saturday                 482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Sunday                   1326 commits        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Denver
+
+💬 Programming Languages: 
+Other                    26 mins             ███████████████████████░░   90.89 % 
+HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+
+🔥 Editors: 
+VS Code                  28 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+VictoriousFatality       28 mins             █████████████████████████   99.58 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+
+💻 Operating System: 
+Windows                  28 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -130,5 +173,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 18:43:01 UTC
+ Last Updated on 17/09/2025 18:42:40 UTC
 <!--END_SECTION:waka-->
