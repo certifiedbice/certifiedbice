@@ -117,6 +117,45 @@ LinkedIn: Currently being censored and undergoing litigation
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                340 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+🌆 Daytime                2013 commits        ███████████░░░░░░░░░░░░░░   42.81 % 
+🌃 Evening                1257 commits        ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+🌙 Night                  1092 commits        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   635 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Tuesday                  567 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Wednesday                521 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Thursday                 814 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Friday                   357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Saturday                 482 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Sunday                   1326 commits        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Denver
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -134,5 +173,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2025 18:42:01 UTC
+ Last Updated on 17/11/2025 18:44:30 UTC
 <!--END_SECTION:waka-->
