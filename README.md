@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -144,16 +144,22 @@ Sunday                   384 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue                      13 mins             ███████████░░░░░░░░░░░░░░   43.98 % 
+SCSS                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lolsypoo                 13 mins             ███████████░░░░░░░░░░░░░░   43.98 % 
+VictoriousFatality       11 mins             █████████░░░░░░░░░░░░░░░░   36.33 % 
+CataclysmicallyMacabre   6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -179,5 +185,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:12:35 UTC
+ Last Updated on 10/08/2026 19:33:23 UTC
 <!--END_SECTION:waka-->
