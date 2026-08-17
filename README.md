@@ -99,7 +99,7 @@ LinkedIn: Currently being censored and undergoing litigation
 "Empowering Change, One Challenge at a Time" – Bice
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -144,22 +144,17 @@ Sunday                   384 commits         █████░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-Vue                      13 mins             ███████████░░░░░░░░░░░░░░   43.98 % 
-SCSS                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Python                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Markdown                 12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lolsypoo                 13 mins             ███████████░░░░░░░░░░░░░░   43.98 % 
-VictoriousFatality       11 mins             █████████░░░░░░░░░░░░░░░░   36.33 % 
-CataclysmicallyMacabre   6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+unreasonableaccountabilit9 mins              ███████████████████░░░░░░   77.15 % 
+UnfilteredDelights       2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -185,5 +180,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/certifiedbice/certifiedbice/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:57:48 UTC
+ Last Updated on 17/08/2026 19:09:07 UTC
 <!--END_SECTION:waka-->
